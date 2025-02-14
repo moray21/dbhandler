@@ -1,0 +1,23 @@
+# cache
+__pycache__/
+*.pyc
+
+# build
+dist/
+*.whl
+*.tar.gz
+
+# files
+*.db
+
+# environment
+.env
+.venv
+.envrc
+
+# mypy
+.mypy_cache/
+
+# test
+.pytest_cache/
+.coverage
